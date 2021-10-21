@@ -1,0 +1,8 @@
+*.zip
+.DS_Store
+*/.DS_Store
+*/.ipynb_checkpoints
+practical info.pdf
+programme.pdf
+slides/*.key
+
