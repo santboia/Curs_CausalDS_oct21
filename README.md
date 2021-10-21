@@ -10,7 +10,7 @@ Workshop organisers:
 - Dr. Jordi Mur, UB
 - Enrique Mora, Nestlé
 
-Contact the organisers at causaldswksp@gmail.com
+Contact the organisers at causaldswkspbcn@gmail.com
 
 
 
